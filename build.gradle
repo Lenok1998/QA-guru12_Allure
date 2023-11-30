@@ -28,6 +28,7 @@ dependencies {
     testImplementation(
             'org.junit.jupiter:junit-jupiter-api:5.9.0',
             'com.codeborne:selenide:6.19.1',
+            'org.junit.platform:junit-platform-console-standalone:1.9.2',
             'io.qameta.allure:allure-selenide:2.19.0'
     )
 
